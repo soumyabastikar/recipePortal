@@ -2,6 +2,13 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.6.
 
+Tech Stack Used; Angular, Firebase API.
+
+Description: 
+A Portal wherein users can add, edit,delete recipes. Also, add the recipe ingredients to the shopping list. Firebase Realitime database used to fetch and manage application data.
+
+Issues: Manage recipes dropdown not working as expected.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
